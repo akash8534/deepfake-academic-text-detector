@@ -1,0 +1,5 @@
+# Ignore Virtual Environment
+venv/
+
+# Ignore Large Datasets (GitHub blocks >100MB)
+data/train.csv
